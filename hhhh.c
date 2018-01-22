@@ -10,7 +10,7 @@ int main(void)
 {
     long n;
     scanf("%ld",&n);
-    printf("Number of digits : %d",
+    printf("Number of digit : %d",
            countDigit(n));
     return 0;
 }
